@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarSystemSimulation.CSharp.Plugins", "SolarSystemSimulation.CSharp.Plugins.csproj", "{F4B311D5-8929-BCC0-98AA-0A0CECD52755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarSystemSimulation.CSharp", "SolarSystemSimulation.CSharp.csproj", "{EB2C4696-48C8-5A98-C198-463230739E7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarSystemSimulation.CSharp.Editor", "SolarSystemSimulation.CSharp.Editor.csproj", "{C848FDB2-7C22-F7EE-9466-EE623A8DAE54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4B311D5-8929-BCC0-98AA-0A0CECD52755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B311D5-8929-BCC0-98AA-0A0CECD52755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B311D5-8929-BCC0-98AA-0A0CECD52755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B311D5-8929-BCC0-98AA-0A0CECD52755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB2C4696-48C8-5A98-C198-463230739E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2C4696-48C8-5A98-C198-463230739E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB2C4696-48C8-5A98-C198-463230739E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB2C4696-48C8-5A98-C198-463230739E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C848FDB2-7C22-F7EE-9466-EE623A8DAE54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C848FDB2-7C22-F7EE-9466-EE623A8DAE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C848FDB2-7C22-F7EE-9466-EE623A8DAE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C848FDB2-7C22-F7EE-9466-EE623A8DAE54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
